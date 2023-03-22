@@ -1,10 +1,11 @@
 # UTS-PAM
 UTS PAM Maura Diviarani 12010061
 
-##"MAW QUEST" 
+"MAW QUEST" 
+
 tentang aplikasi kuis/tanya jawab terkait katagori yang dipilih
 
-##Cara Instalasi
+#Cara Instalasi
 
 Download ZIP Maw Quest
 Dapat menggunakan VSCODE dengan melakuakan:
