@@ -10,6 +10,9 @@ Download ZIP Maw Quest
 Dapat menggunakan VSCODE dengan melakuakan:
 
 $ npm install
+
 $ expo -V
+
 $ expo start
+
 $ w
